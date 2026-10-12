@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jey
 
-<!--
-**mj0five/mj0five** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build interactive hardware projects and explore practical tools that connect software with the physical world.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Interactive Ultrasonic Radar](https://github.com/mj0five/Interactive-Ultrasonic-Radar-Arduino) — an Arduino and Processing project exploring ultrasonic scanning, joystick control, and visual feedback.
+- [Layered Educational Radar](https://github.com/mj0five/A-Layered-Architecture-Educational-Radar) — an expanded educational radar project with multiple visualization approaches.
+
+These repositories are works in progress. I'm improving their setup instructions, organization, and reproducibility.
+
+## Interests
+
+Arduino · Interactive visualization · 3D printing · Practical software tools
+
+Suggestions and constructive feedback are welcome through repository issues.
